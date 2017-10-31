@@ -1,0 +1,5 @@
+*
+!*.lisp
+!Makefile
+!*.sh
+!.gitignore
